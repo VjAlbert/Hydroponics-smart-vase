@@ -325,9 +325,7 @@ def create_main_window():
 
     ttk.Label(sensor_frame, text="Water Level:").grid(row=0, column=0, sticky="w", padx=5, pady=2)
     lbl_water_level_val = ttk.Label(sensor_frame, text="N/A", font=("Arial", 12, "bold"))
-    lbl_water_level_val
-
-.grid(row=0, column=1, sticky="w", padx=5, pady=2)
+    lbl_water_level_val.grid(row=0, column=1, sticky="w", padx=5, pady=2)
     lbl_water_level_drops = ttk.Label(sensor_frame, text="", font=("Arial", 12))
     lbl_water_level_drops.grid(row=0, column=2, sticky="w", padx=10, pady=2)
 
