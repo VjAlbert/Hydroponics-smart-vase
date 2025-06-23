@@ -5,7 +5,7 @@ Welcome to the DIY 3D-Printed Smart Hydroponics System project! This repository 
 
 The system uses an ATmega328P (Arduino Uno/Nano) to manage sensors and the water pump, an ESP8266 for Wi-Fi connectivity and a web API, and a Python Tkinter application for user-friendly remote control and data logging.
 
-**The 3D model for the hydroponic vase can be found here: [[LINK TO YOUR 3D MODEL](https://makerworld.com/it/models/1544187-hydroponic-arduino-vase#profileId-1621109)**
+**The 3D model for the hydroponic vase can be found here: [[3D MODEL LINK](https://makerworld.com/it/models/1544187-hydroponic-arduino-vase#profileId-1621109)]**
 
 ## Features
 
